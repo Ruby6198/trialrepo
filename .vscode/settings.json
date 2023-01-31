@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/04a9aa9e-61d0-47de-97ae-f68b2faf99e6/appservices/subscriptions/04a9aa9e-61d0-47de-97ae-f68b2faf99e6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/testclinicapp",
+    "appService.deploySubpath": "."
+}

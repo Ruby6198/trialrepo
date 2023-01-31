@@ -16,3 +16,4 @@ app.use("/api/v1/patients", getPatients );
 app.listen(port, () => {
   console.log(`litening to port ${port}...`);
 });
+
